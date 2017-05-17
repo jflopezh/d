@@ -7,6 +7,7 @@ package tabla.de.multiplicar;
 import java.util.*;
 import java.io.*;
 
+
 /**
  *
  * @author JAVIER
